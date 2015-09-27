@@ -1,0 +1,44 @@
+The assetDir is deprecated!  I actually just did all this generalizing stuff just now.. Use runDir instead! runDir set to eclipse/assets/..The assetDir is deprecated!  I actually just did all this generalizing stuff just now.. Use runDir instead! runDir set to eclipse/assets/..
+
+The runDir should be the location where you want MC to be run, usually he parent of the asset dirThe runDir should be the location where you want MC to be run, usually he parent of the asset dir
+
+****************************
+ Powered By MCP:             
+ http://modcoderpack.com/    
+ Searge, ProfMobius, Fesh0r, 
+ R4wk, ZeuX, IngisKahn, bspkrs
+ MCP Data version : unknown
+****************************
+:downloadClient SKIPPED
+:downloadServer SKIPPED
+:getVersionJson
+:extractUserDev
+:mergeJars SKIPPED
+:applyBinPatches SKIPPED
+:downloadMcpTools SKIPPED
+:extractMcpData
+:genSrgs SKIPPED
+:deobfBinJar SKIPPED
+:extractNatives
+:getAssetsIndex
+:getAssets
+:makeStart
+[ant:javac] 警告: [options] ブートストラップ・クラスパスが-source 1.6と一緒に設定されていません
+[ant:javac] 警告1個
+:setupDevWorkspace
+:deobfuscateJar SKIPPED
+:decompile SKIPPED
+:processSources SKIPPED
+:remapJar SKIPPED
+:extractMinecraftSrc SKIPPED
+:recompMinecraft SKIPPED
+:repackMinecraft SKIPPED
+:setupDecompWorkspace
+:eclipseClasspath
+:eclipseJdt
+:eclipseProject
+:eclipse
+
+BUILD SUCCESSFUL
+
+Total time: 50.848 secs
