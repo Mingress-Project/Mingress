@@ -17,5 +17,6 @@ public class ExampleMod
 		// some example code
 		//勝手に書き換えるなり何なりどうぞ
         System.out.println("DIRT BLOCK >> "+Blocks.dirt.getUnlocalizedName());
+        System.out.println("1215NDDDDDDDDDDDDDDDDDDDDDDDDDDDDDDDDDDDDDDDDDDDDD");
     }
 }
